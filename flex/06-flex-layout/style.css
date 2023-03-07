@@ -13,7 +13,6 @@ body {
 
 img {
   width: 600px;
-  display: flex;
 }
 
 ul {
@@ -30,6 +29,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 6px;
 }
 
 input {
